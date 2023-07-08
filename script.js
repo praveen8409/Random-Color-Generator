@@ -18,4 +18,4 @@ mainButton.addEventListener("click", ()=>{
     // console.log(randomColor);
     body.style.backgroundColor = randomColor; // Set backGroundColor of body
     currentColor.textContent = randomColor;   // set rgb() value in Current color
-})
+});
